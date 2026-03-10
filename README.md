@@ -48,14 +48,13 @@
 📧 Email: **oburahp@mail.gvsu.edu**
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/peter-otieno-oburah
+https://www.linkedin.com/in/peter-otieno-b6a50a184/
 
 💻 GitHub  
 https://github.com/Oburah-Peter
 
 🐦 X (Twitter)  
-https://x.com/YOUR_USERNAME
-
+https://x.com/PeterOtieno990
 ---
 
 ### 🌐 Connect With Me
