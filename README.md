@@ -5,41 +5,51 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Master’s Student in **Data Science & Analytics** at **Grand Valley State University**
-- 🤖 Passionate about **Artificial Intelligence, Deep Learning, and Computer Vision**
-- 🧠 Currently working on **Brain Tumor Detection using YOLOv8**
-- 📊 Interested in **Machine Learning, Data Science, and Explainable AI**
-- 🚀 Building intelligent systems for **healthcare, finance, and data-driven applications**
+- 🎓 Master’s Student in **Data Science & Analytics** at :contentReference[oaicite:0]{index=0}  
+- 🤖 Passionate about **Artificial Intelligence, Deep Learning, and Brain-Computer Interfaces (BCI)**  
+- 🧠 Currently working on **EEG Motor Imagery Classification using EEGNet and Classical ML models**  
+- 🔬 Deep interest in **Neurotechnology, Deep Brain Simulation Systems, and Non-Invasive BCI**  
+- 🚀 Building intelligent systems for **healthcare, neuroscience, and human-centered AI**
 
 ---
 
 ### 🔭 Current Work
 
-- 🧠 Brain Tumor Detection using **YOLOv8**
-- 🤖 Explainable AI using **heatmaps and Grad-CAM**
-- 📊 Machine Learning model development
-- 🌐 AI-powered web applications using **Streamlit**
+- 🧠 EEG Motor Imagery Decoding using **EEGNet**
+- 📊 Comparative Analysis of **Machine Learning vs Deep Learning models for EEG classification**
+- 🔍 Explainable AI for EEG signals (**uncertainty, interpretability, signal trust**)
+- 🌐 Lightweight AI demo apps using **Streamlit**
+
+---
+
+### 🚀 Future Research Direction
+
+- 🧠 **Deep Brain Simulation Systems (DBS-inspired AI models)**
+- ⚡ **Non-Invasive Brain-Computer Interfaces (EEG-based control systems)**
+- 🧬 Neural decoding and human cognition modeling
+- 🤖 AI systems that interact directly with **human brain signals**
+- 🎧 Thought-driven systems (e.g., emotion-aware music, brain-controlled interfaces)
 
 ---
 
 ### 👯 I’m Looking to Collaborate On
 
-- Machine Learning research
-- Deep Learning projects
-- AI in Healthcare
-- Computer Vision systems
-- Data Science and analytics
+- Brain-Computer Interface (BCI) projects  
+- Neuro-AI and brain signal processing  
+- Deep Learning research  
+- AI in Healthcare  
+- Computer Vision & Multimodal AI  
 
 ---
 
 ### 💬 Ask Me About
 
-- Python
-- Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
-- Streamlit applications
+- Python  
+- Machine Learning  
+- Deep Learning  
+- EEG Signal Processing  
+- Computer Vision  
+- Streamlit applications  
 
 ---
 
@@ -55,14 +65,15 @@ https://github.com/Oburah-Peter
 
 🐦 X (Twitter)  
 https://x.com/PeterOtieno990
+
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Oburah-Peter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/peter-otieno-oburah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://x.com/YOUR_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://github.com/Oburah-Peter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/peter-otieno-oburah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://x.com/PeterOtieno990" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -76,10 +87,7 @@ https://x.com/PeterOtieno990
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 
 </p>
 
@@ -95,24 +103,24 @@ https://x.com/PeterOtieno990
 
 ### 🚀 Featured Projects
 
-🧠 **Brain Tumor Detection using YOLOv8**
+🧠 **EEG Motor Imagery Classification using EEGNet**
 
-AI-powered system that detects brain tumors from MRI images and provides explainable AI visualizations.
+A deep learning system that decodes brain signals (EEG) to classify motor imagery tasks, comparing classical ML approaches with EEGNet.
 
 🔗 Repository  
-https://github.com/Oburah-Peter/brain-tumor-detection-yolov8
+https://github.com/Oburah-Peter
 
 ---
 
 ### 📚 Research Interests
 
-- Artificial Intelligence
-- Deep Learning
-- Computer Vision
-- Explainable AI
-- Healthcare AI
-- Predictive Analytics
+- Brain-Computer Interfaces (BCI)  
+- Deep Brain Simulation Systems  
+- Neural Signal Processing (EEG, LFP)  
+- Deep Learning for Neuroscience  
+- Explainable AI  
+- Human-centered AI systems  
 
 ---
 
-⭐ Always exploring new ways to build intelligent systems using AI.
+⭐ Exploring the future of AI where machines understand and interact directly with the human brain.
