@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Master’s Student in **Data Science & Analytics** at :contentReference[oaicite:0]{index=0}  
+- 🎓 Master’s Student in **Data Science & Analytics** at [Grand Valley State University](https://www.gvsu.edu)
 - 🤖 Passionate about **Artificial Intelligence, Deep Learning, and Brain-Computer Interfaces (BCI)**  
 - 🧠 Currently working on **EEG Motor Imagery Classification using EEGNet and Classical ML models**  
 - 🔬 Deep interest in **Neurotechnology, Deep Brain Simulation Systems, and Non-Invasive BCI**  
